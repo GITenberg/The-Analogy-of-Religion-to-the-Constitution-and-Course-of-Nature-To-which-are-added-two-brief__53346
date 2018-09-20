@@ -1,0 +1,39 @@
+_repo: The-Analogy-of-Religion-to-the-Constitution-and-Course-of-Nature-To-which-are-added-two-brief__53346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Joseph
+    birthdate: 1692
+    deathdate: 1752
+    gutenberg_agent_id: '1116'
+    url: http://www.gutenberg.org/2009/agents/1116
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Butler
+  editor:
+    agent_name: Malcolm, Howard
+    alias: Malcom, Howard
+    birthdate: 1799
+    deathdate: 1879
+    gutenberg_agent_id: '47331'
+    url: http://www.gutenberg.org/2009/agents/47331
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2016-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Analogy (Religion)'
+- !lcsh 'Revelation'
+- !lcsh 'Apologetics -- Early works to 1800'
+- !lcc 'BT'
+- !lcsh 'Eschatology'
+- !lcsh 'Natural theology'
+- GITenberg
+title: "The Analogy of Religion to the Constitution and Course of Nature\r\nTo which\
+  \ are added two brief dissertations: I. On personal identity. II. On the nature\
+  \ of virtue."
+url: http://www.gutenberg.org/ebooks/53346
